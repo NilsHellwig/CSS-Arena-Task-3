@@ -1,33 +1,31 @@
-# CSS Arena – Aufgabe 3: News Page (Topbar, Sidebar und Content)
+# CSS Arena – Task 3: News Page (Topbar, Sidebar, and Content)
 
-## Thema: Die Zukunft der Technik und Künstliche Intelligenz 🤖 🌍
+## Task
 
-Erstelle eine CSS-Datei `styles.css`, die das Layout und Design der folgenden Webseite umsetzt, die sich mit den neuesten Entwicklungen der Künstlichen Intelligenz beschäftigt.
+Create a CSS file `styles.css` to implement the layout and design of the following webpage, which focuses on the latest developments in Artificial Intelligence.
 
-> 🧱 Die HTML-Struktur ist bereits vorgegeben in `index.html` und **darf nicht verändert werden**.
+> 🧱 The HTML structure is already provided in `index.html` and **must not be modified**.
 
-### Designvorgabe:
+### Design Requirements:
 
-<img src="ziel-1.png" alt="Zielansicht der Webseite 1" />
-<img src="ziel-2.png" alt="Zielansicht der Webseite 2" />
+<img src="ziel-1.png" alt="Target view of the webpage 1" />
+<img src="ziel-2.png" alt="Target view of the webpage 2" />
 
-### Anforderungen:
+### Specifications:
 
-- Ein **sticky** Header mit zwei Icons (rechts und links)
-- Ein **Artikelbereich** auf der linken Seite mit einer großen Überschrift und einem Bild
-  - Der Artikel soll eine prägnante Einführung und mehrere Absätze zum Thema Künstliche Intelligenz enthalten
-- Eine **Sidebar** rechts, die eine Liste von verwandten Artikeln zeigt
-- Alle Elemente sollten **abgerundete Ecken** und ein einheitliches Design mit einer klaren Struktur aufweisen
-- Schriftart: Manrope
-- Hintergrundfarbe der Seite: hellgrau (`#eee`)
-- Verwendung von **Flexbox**, um die Layoutstruktur zu erstellen
-- Achte auf **Abstände, Schriftgrößen und Hover-Effekte**:
-  - Die Sidebar-Links sollen beim Überfahren unterstrichen werden
-  - Icons in der oberen Leiste sollen beim Hover eine Hintergrundfarbe ändern
-- Die Seite soll in einem modernen und ansprechenden Stil gehalten sein
+- A **sticky** header with two icons (one on the left and one on the right)
+- An **article section** on the left side with a large headline and an image
+  - The article should include a concise introduction and multiple paragraphs about Artificial Intelligence
+- A **sidebar** on the right displaying a list of related articles
+- All elements should have **rounded corners** and a cohesive design with a clear structure
+- Font: Manrope
+- Page background color: light gray (`#eee`)
+- Pay attention to **spacing, font sizes, and hover effects**:
+  - Sidebar links should be underlined on hover
+  - Icons in the top bar should change background color on hover
 
 ---
 
-💡 **Tipp:** Achte auf **Responsive Design**, damit die Seite auch auf kleineren Geräten gut aussieht. Verwende `max-width`, `padding` und `margin`, um die Inhalte gut zu verteilen.
+💡 **Tip:** Focus on **responsive design** to ensure the page looks good on smaller devices. Use `max-width`, `padding`, and `margin` to distribute content effectively.
 
-Viel Spaß beim Coden! 🚀
+Happy coding! 🚀
